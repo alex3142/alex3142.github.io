@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome 👋
+
+I'm Alex3142 currently working as a data scientist in the insurance industry. 
+
+Having recently looked through alot of my old code here I realise this needs an enormous clean up! Which is when I found that you can add a github pages website by creating a repository with your own username, which is cool, so this is me giving this a go...
 
 <!--
 **alex3142/alex3142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
