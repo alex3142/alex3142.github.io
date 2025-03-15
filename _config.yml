@@ -1,4 +1,4 @@
 title: Alex 3142 - ML Blog
-description: A bunch of useful ideas mostly for me but feel free to borrow!
+description: A bunch of useful ideas mostly for me but feel free to borrow.
 show_downloads: false
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
