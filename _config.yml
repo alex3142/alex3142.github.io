@@ -2,3 +2,5 @@ title: Alex 3142 - ML Blog
 description: A bunch of useful ideas mostly for me but feel free to borrow.
 show_downloads: false
 remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme 
